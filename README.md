@@ -8,5 +8,5 @@
 - Two distance measurement sensors are implemented during design.
 
 ### Diagrams
-- Hovercraft
 ![](https://raw.githubusercontent.com/JAckZ97/Hovercraft/master/Hovercraft.jpg)
+- Hovercraft
