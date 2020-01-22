@@ -9,4 +9,4 @@
 
 ### Diagrams
 - Hovercraft
-![Hovercraft](https://raw.githubusercontent.com/JAckZ97/Elevator_system/master/Reference_Picture/DRAGON12-Light%20Trainer%20Rev.%20D.jpg)
+![Hovercraft](https://raw.githubusercontent.com/JAckZ97/Hovercraft/master/Hovercraft.jpg)
